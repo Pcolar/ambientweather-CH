@@ -1,6 +1,5 @@
 # Ambient Weather to CSV
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c3bc4be17494f71bef89c4f0944d504)](https://app.codacy.com/app/dave_9/ambientweather-CH?utm_source=github.com&utm_medium=referral&utm_content=Pcolar/ambientweather-CH&utm_campaign=Badge_Grade_Dashboard)
-[![Codacy Badge](https//api.codacy.com/project/badge/Grade/fc2c86b867c54f7a927fe251bd61b4bc)](https//www.codacy.com/app/dave_9/ambientweather-CH?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Pcolar/ambientweather-CH&amp;utm_campaign=Badge_Grade)
 
 ## Create a CSV from a API call to Ambient Weather
 
