@@ -16,7 +16,7 @@ your desired format, but please keep the names the same.
 
 ### Data Source
 The API you will communicate with is connected to the weather sensor that is located at the Chapel Hill Public Library.
-[https//ambientweather.docs.apiary.io/#]
+[https://ambientweather.docs.apiary.io/#]
 
 ### Output The final CSV should include these data points
 #### Temperature (F), Humidity (%), Wind Speed (mph), Wind Gust (mph), Daily Rainfall Totals (in), Monthly Rainfall Totals (in), Yearly Rainfall Totals (in), UV Radiation Index, and Date/Time
