@@ -2,13 +2,10 @@
 __copyright__ = "Copyright (C) 2019 David Pcolar"
 __license__ = "BSD Version 3 License"
 
-
 import datetime
 import os
 import requests
 
-# Note: create the credentials file in ~/.aws/ before using boto3
-#
 # Loggily credentials are for djpcolar.loggily.com
 # Normally loaded from a credentials file...
 loggily_URI="http://logs-01.loggly.com/inputs/3f233490-d5c7-42f0-bdfb-c9d0a51888c6/tag/http/"
