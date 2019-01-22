@@ -3,6 +3,7 @@ __copyright__ = "Copyright (C) 2019 David Pcolar"
 __license__ = "BSD Version 3 License"
 
 import datetime
+import json
 import os
 import requests
 
@@ -49,4 +50,3 @@ def load_from_environment(return_args, *argv):
        else:
           return_args[arg] = None
     return(0)
-
