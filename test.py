@@ -1,5 +1,6 @@
 #!/usr/bin/python
 """ Ambient Weather to CSV """
+__license__ = "BSD Version 3 License"
 
 from python_library import *
 
