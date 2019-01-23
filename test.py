@@ -7,7 +7,6 @@ from python_library import *
 import csv
 import json
 import requests
-import sys
 import importlib
 # parameter file including access keys
 ## needed due to '-' in import filename
@@ -74,7 +73,7 @@ if len(result_set) == 0:
 try:
    output_file = open(output_filename, 'w')
    csvwriter = csv.writer(output_file, dialect='excel')
-except:
+except IOError:
    json_messages['message'] = "Output file creation failed"
    json_messages['exit status'] = "error"
    log_json_message(json_messages)
