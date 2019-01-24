@@ -1,7 +1,7 @@
 # Ambient Weather to CSV
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c3bc4be17494f71bef89c4f0944d504)](https://app.codacy.com/app/dave_9/ambientweather-CH?utm_source=github.com&utm_medium=referral&utm_content=Pcolar/ambientweather-CH&utm_campaign=Badge_Grade_Dashboard)
 
-## Create a CSV file from an API call to Ambient Weather
+## Create a CSV file from a API call to Ambient Weather
 
 ### Goal 
 Create a script that can perform a GET request with the given API, transform that data into a human readable format, and then write it to a CSV
