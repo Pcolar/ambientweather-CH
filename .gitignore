@@ -44,4 +44,4 @@ temp*.py
 temp*.sh
 *secret*
 *credential*
-
+*.lock
